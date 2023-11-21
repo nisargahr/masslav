@@ -1,0 +1,10 @@
+Nov 21, 2023 11:04:12 AM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: slave1
+Nov 21, 2023 11:04:12 AM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3160.vd76b_9ddd10cc
+Nov 21, 2023 11:04:12 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/ec2-user/one/remoting as a remoting work directory
+Nov 21, 2023 11:04:12 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: WebSocket connection open
+Nov 21, 2023 11:04:12 AM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
